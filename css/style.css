@@ -1,0 +1,12 @@
+body{
+    background-color: lightgrey;
+    margin: 30px;
+}
+div{
+    background-color: rgb(207, 207, 175);
+    width: 50%;
+    margin-left: 50px;
+    text-decoration: black;
+    text: height 20px;
+    box-shadow: -4px -3px rgb(114, 105, 105) ;
+}
